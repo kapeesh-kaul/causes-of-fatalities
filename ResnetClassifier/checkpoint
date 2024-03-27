@@ -1,2 +1,2 @@
-model_checkpoint_path: "model4cls.ckpt"
-all_model_checkpoint_paths: "model4cls.ckpt"
+model_checkpoint_path: "model4death_cls.ckpt"
+all_model_checkpoint_paths: "model4death_cls.ckpt"
